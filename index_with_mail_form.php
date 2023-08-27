@@ -36,7 +36,7 @@
     <div class="col-lg-4 p-3">
         <div class="card border-0">
           <div class="card-body">
-            <form method="post" action="task.php">
+            <form method="post" action=" ">
                 <h3>Deliver your queries here.....</h3><br>
               <input type="text" placeholder="Full Name" name="full_name" class="form-control" style="background-color: #F5F5F5;" required><br>
               <input type="tel" placeholder="Phone Number" name="phone_number" class="form-control" style="background-color: #F5F5F5;" required><br>
